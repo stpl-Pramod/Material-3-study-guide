@@ -11,7 +11,7 @@
 
 **Solutions:**
 ```bash
-# Clear npm cache
+# Clear npm cache g
 npm cache clean --force
 
 # Update Angular CLI
